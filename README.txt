@@ -1,0 +1,1 @@
+Hello! This code acts as a back up set of dice! The program will ask you if you want to roll or not, and depending on whether you answer yes or no, it will ask you which dice you would like to use. If you answer yes, the program will refresh back to the first question after your roll, incase you need to roll another dice. The dice options are d4, d6, d8, d10, d12, d20 and d100. 
